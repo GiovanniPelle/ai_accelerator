@@ -1,1 +1,2 @@
-# AI Accelerator (VHDL & Verilog)
+# AI Accelerator (VHDL)
+
