@@ -1,0 +1,7 @@
+v 4
+file . "and2.vhd" "09b4bdcbc4d99ffbd1a41693ed4207e5bca49f2c" "20251003153623.716":
+  entity and2 at 1( 0) + 0 on 15;
+  architecture rtl of and2 at 12( 170) + 0 on 16;
+file . "tb_and2.vhd" "e7f1560dbc5bf4fd6c43924af328c85cf761e58f" "20251003153623.718":
+  entity tb_and2 at 1( 0) + 0 on 17;
+  architecture sim of tb_and2 at 7( 76) + 0 on 18;
